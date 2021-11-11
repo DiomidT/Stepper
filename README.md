@@ -1,2 +1,2 @@
 # Stepper
-RxJs stepepr
+RxJs stepper
